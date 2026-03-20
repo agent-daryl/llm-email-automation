@@ -1,0 +1,17 @@
+llm-email-automation
+================
+Python 3.8+
+
+No external dependencies (uses standard library only:
+
+- smtplib (SMTP operations)
+- imaplib (IMAP operations)
+- email (RFC822 message parsing)
+- argparse (CLI interface)
+- email.header (MIME header decoding)
+- os (filesystem operations)
+- sys (system operations)
+- typing (type hints)
+- re (regex for email validation)
+- pathlib (path operations)
+- glob (file globbing)
